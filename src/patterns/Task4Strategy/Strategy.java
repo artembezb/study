@@ -1,4 +1,4 @@
-package patterns.Task1Decorator.Task4Strategy;
+package patterns.Task4Strategy;
 
 public class Strategy {
     private ILogger someLogger;

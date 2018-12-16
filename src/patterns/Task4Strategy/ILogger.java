@@ -1,4 +1,4 @@
-package patterns.Task1Decorator.Task4Strategy;
+package patterns.Task4Strategy;
 
 import java.io.FileWriter;
 import java.io.IOException;
